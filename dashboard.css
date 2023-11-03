@@ -1,0 +1,40 @@
+nav {
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    border: 2px solid black;
+    border-radius: 5px;
+  
+    margin-bottom: 5px;
+}
+    
+
+body {
+    background-color: 
+    #004dff;
+}
+main {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -2px;
+}
+  
+
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 4px;
+    width: 6.5%;
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+}
